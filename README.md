@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shivamsinghsp
-- 👀 I’m interested in Cyber Security 
+- 💪 I am a Java Developer
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning in 2nd year in UIET, Kanpur
 - 💞️ I’m looking to collaborate on ISAC
 - 📫 How to reach me shivamsinghabc439@gmail.com
