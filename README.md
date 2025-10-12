@@ -53,5 +53,5 @@
 <p align="center">
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
+  <a href="https://portfolio-kappa-self-61.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"></a>
 </p>
