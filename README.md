@@ -1,8 +1,7 @@
 
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF¢er=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Shivam+Singh+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Next.js+%7C+TypeScript;Building+production+systems+that+scale;AI+integrations+%7C+REST+APIs+%7C+RBAC;Let's+build+something+real." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&multiline=false&width=700&height=60&lines=Hey+there%2C+I%27m+Shivam+Singh+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Next.js+%7C+TypeScript;Building+production+systems+that+scale;AI+integrations+%7C+REST+APIs+%7C+RBAC" alt="Typing SVG" />
 </p>
 
 <p align="center">
