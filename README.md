@@ -200,7 +200,7 @@ shivamsinghabc439@gmail.com
 
 🔗 LinkedIn
 
-https://linkedin.com/in/shivam2105
+https://linkedin.com/in/shivam2105-
 
 🌐 Portfolio
 
